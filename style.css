@@ -1,0 +1,30 @@
+body {
+    background-color: #222831;
+    color: #DFD0B8;
+    font-size: 3vh;
+    margin: 6vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+#animeName {
+    padding: 1rem;
+    font-size: 1.3vw;
+    font-weight: bold;
+    background-color: #393E46;
+    color: #948979;
+    border-radius: 20px;
+    width: 20vw;
+}
+
+#btn {
+    padding: 1rem;
+    width: 20vw;
+    font-size: 2vw;
+    font-weight: bold;
+    background-color: #393E46;
+    color: #948979;
+    border-radius: 20px;
+}
